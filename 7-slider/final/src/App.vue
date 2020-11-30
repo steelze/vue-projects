@@ -51,7 +51,7 @@ export default {
       counter: 0,
     }
   },
-  destroy() {
+  unmounted() {
     clearInterval(slider);
   },
 }
