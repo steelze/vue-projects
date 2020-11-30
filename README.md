@@ -1,30 +1,24 @@
+# 1-birthday-reminder
 
-#### All Projects
+## Project setup
+```
+yarn install
+```
 
-[Projects Site](https://vue2-projects.netlify.app/)
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-1. Birthday Reminder
-2. Tours
-3. Reviews
-4. Questions
-5. Menu
-6. Tabs
-7. Stripe Menu
-8. Slider
-9. Lorem Ipsum Generator
-10. Color Shades Generator
-11. Grocery Bud
-12. Navbar
-13. Modal and Sidebar
-14. Cart
-15. Cocktails
+### Compiles and minifies for production
+```
+yarn build
+```
 
-## Advanced Projects
-16. Markdown Preview
-17. Random Person
-18. Pagination
-19. Stock Photos
-20. Dark Mode
-21. Movie DB
-22. Hacker News
-23. Quiz
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
