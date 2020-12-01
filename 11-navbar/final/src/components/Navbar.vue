@@ -4,7 +4,7 @@
       <div class="nav-header">
         <img src="../assets/logo.svg" alt="logo">
         <button type="button" class="nav-toggle" @click="showLinks = !showLinks">
-          <i class="material-icons">horizontal_split</i>
+          <i class="fa fa-bars"></i>
         </button>
       </div>
       <div class="links-container" ref="linksContainerRef">
